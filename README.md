@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GhulePrashant
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning HTML, CSS, JavaScript, ReactJS and node.js
+- 👀 I’m interested in Java development.
+- 🌱 I’m currently learning Java, SpringBoot, REST APIs, HTML, CSS, JavaScript, ReactJS.
 - 📫 You can reach me via : 
 - 📫 linkedin - www.linkedin.com/in/prashant-ghule
 - 📫 instagram - https://www.instagram.com/prashant_ghule__
